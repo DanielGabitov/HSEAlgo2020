@@ -4,13 +4,15 @@
 
 ## Как вставить картинку?
 * Добавьте файл в папку <bold>algo_data</bold>.
-* Добавьте следующую команду без '/' в место, куда вы хотите вставить картинку:
+* Добавьте следующую c <>, куда вы хотите вставить картинку:
 
-/<p align="center">
-  /<img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/{NAME}" alt="home"/>
-/</p>
+p align="center"
+  img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/{NAME}" alt="home"/
+/p
 
 {NAME} - имя файла.
+
+* Можно посмотреть пример в README.
 
 * Используйте разумный naming, наример: ticket_25_1.
 
