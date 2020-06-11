@@ -11,6 +11,8 @@
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_26_2.png" alt="home"/>
 </p>
 
+* Так же есть более подробное [описание основ](https://wiki.algocode.ru/index.php?title=0-K_BFS) алгоритма
+
 ### 0-1 BFS на деке
 
 <p align="center">
