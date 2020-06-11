@@ -2,13 +2,13 @@
  <h3>Билеты по алгоритмам. Летняя сессия 2020.</h3>
 </p>
 
-### Как вставить картинку?
+## Как вставить картинку?
 * Добавьте файл в папку <bold>algo_data</bold>.
-* Добавьте следующую строчку в место, куда вы хотите вставить картинку:
+* Добавьте следующую команду без '/' в место, куда вы хотите вставить картинку:
 
-!<p align="center">
-  !<img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/{NAME}" alt="home"/>
-!</p>
+/<p align="center">
+  /<img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/{NAME}" alt="home"/>
+/</p>
 
 {NAME} - имя файла.
 
