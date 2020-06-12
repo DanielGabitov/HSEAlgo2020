@@ -19,3 +19,7 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_59_4.png" alt="home"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_59_5.png" alt="home"/>
+</p>
