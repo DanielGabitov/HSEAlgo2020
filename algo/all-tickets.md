@@ -15,9 +15,7 @@
 
 
 - Для ориентированного случая делаем 
-все то же самое, только теперь ребра не нужно удалять, все хранить можно в ```vector<vector<Edge>>```
-
-# Билет 3
+все то же самое, только теперь ребра не нужно удалять, все хранить можно в ```vector<vector<Edge>>```# Билет 3
 ##  Определения
 - Ребро (a, b) называется **мостом**, если после его удаления a и b не связны.
 - **Точка сочленения** – вершина, при удалении которой увеличивается число ком- понент связности.
@@ -60,7 +58,6 @@
 
 ## Решение 2-SAT
 ![2 list clolring](../algo_data/ticket_5_3.png)
-
 # Билет 6
 ## Неразрешимость Halting Problem
 - Halting Problem - "Дана программа, остановится ли она когда-нибудь на данном входе?"
@@ -79,8 +76,6 @@
 ## Cледствие P != EXP из теоремы об иерархии по времени
 
 ![Теорема](../algo_data/ticket_6_4.png)
-
-
 ## Билет 25
 Автор: Габитов Даниил.
 
@@ -100,8 +95,6 @@
 
 Необходимо понимание стркутуры, в частности, что BFS строит дерево.
 // I do not know what to say beside that
-
-
 ## Билет 26
 Автор: Габитов Даниил.
 
@@ -122,8 +115,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_26_3.png" alt="home"/>
 </p>
-
-
 ## Билет 27
 Автор: Габитов Даниил
 
@@ -154,8 +145,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_28_2.png" alt="home"/>
 </p>
-
-
 ## Билет 29
 Автор: Габитов Даниил
 
@@ -166,8 +155,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_29_2.png" alt="home"/>
 </p>
-
-
 ## Билет 30
 Автор: Габитов Даниил
 
@@ -180,8 +167,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_30_2.png" alt="home"/>
 </p>
-
-
 ## Билет 31
 Автор: Габитов Даниил
 
@@ -214,8 +199,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_32_3.png" alt="home"/>
 </p>
-
-
 ## Билет 33
 Автор: Габитов Даниил
 
@@ -226,8 +209,6 @@
 
 
 * Алгоритм восстановления == просто обратные ссылки?
-
-
 ## Билет 34
 Автор: Габитов Даниил
 
@@ -250,8 +231,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_34_4.png" alt="home"/>
 </p>
-
-
 ## Билет 35
 Автор: Габитов Даниил
 
@@ -264,8 +243,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_35_2.png" alt="home"/>
 </p>
-
-
 ## Билет 36
 Автор: Габитов Даниил
 
@@ -278,8 +255,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_36_2.png" alt="home"/>
 </p>
-
-
 ## Билет 37
 Автор: Габитов Даниил
 
@@ -287,8 +262,6 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_37_1.png" alt="home"/>
 </p>
-
-
 ## Билет 38
 Автор: Габитов Даниил
 
@@ -302,16 +275,12 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_38_2.png" alt="home"/>
 </p>
-
-
 ## Билет 39
 Автор: Габитов Даниил
 
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_39_1.png" alt="home"/>
-</p>
-
-
+</p
 ## Билет 45
 Автор: Габитов Даниил
 
@@ -343,8 +312,6 @@
 ### Правило Варнсдорфа.
 
 В конспекте ничего нет. Есть только [определение](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D1%85%D0%BE%D0%B4%D0%B5_%D0%BA%D0%BE%D0%BD%D1%8F) на вики
-
-
 ## Билет 46
 Автор: Даниил Габитов
 
@@ -359,25 +326,21 @@
 ## Билет 47
 Автор: Даниил Габитов
 // TODO спросить на консультации. Непонятно что хотят услышать.
-## Билет 47
+## Билет 48
 Автор: Даниил Габитов
 
 
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_48.png" alt="home"/>
 </p>
-
-
-## Билет 47
+## Билет 49
 Автор: Даниил Габитов
 
 
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_49.png" alt="home"/>
 </p>
-
-
-## Билет 57
+## Билет 58
 
 
 <p align="center">
