@@ -11,4 +11,4 @@
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_87_2.png" alt="home"/>
 </p>
 
-##### Итог: умеем решать RMQ за <nlog, 1>, тогда умеем и LCA за это же время.
+#### Итог: умеем решать RMQ за <nlog, 1>, тогда умеем и LCA за это же время.
