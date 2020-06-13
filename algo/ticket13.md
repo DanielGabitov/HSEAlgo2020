@@ -5,4 +5,4 @@
 ![Определение](../algo_data/ticket_13_2.png)
 ## k-CLIQUE → VERTEX-COVER
 [stackexchange](https://cs.stackexchange.com/questions/37527/reduce-clique-to-vertex-cover)
-- К сожалению, я не вижу этого в практике и конспекте :с
+![Определение](../algo_data/ticket_13_2.jpg)
