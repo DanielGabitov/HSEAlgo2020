@@ -1,6 +1,8 @@
 ## Билет 70
 Автор: Габитов Даниил
 
+##### Напоминалка того, как устроен арматизированный анализ
+
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_70_1.png" alt="home"/>
 </p>
