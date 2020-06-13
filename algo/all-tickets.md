@@ -2062,7 +2062,7 @@ I have no idea. Нужно спросить на консультации
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_79_2.png" alt="home"/>
 </p>
 
-## Билет 62
+## Билет 80
 Автор: Габитов Даниил
 
 <p align="center">
