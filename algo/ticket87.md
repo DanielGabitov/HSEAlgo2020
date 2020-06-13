@@ -3,6 +3,8 @@
 
 #### Проще посмотреть [лекцию](https://youtu.be/d9fBIjjOcaI?t=1741), и тогда все сведения вспомнятся, они не сложные.
 
+  Первый переход через Декартач, второй через эйлеров обход
+
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_87_1.png" alt="home"/>
 </p>
