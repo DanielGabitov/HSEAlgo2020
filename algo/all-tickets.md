@@ -1361,13 +1361,7 @@ I have no idea. Нужно спросить на консультации
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_31_1.png" alt="home"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_31_2.png" alt="home"/>
-</p>
 
-* Подробнее про [транзитивное замыкание](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5)
-
-* Идея для обычного Флойда должна быть тривиальна. Чтобы понять, почему переход на битсет так работает, помогает нарисовать табличку и вспомнить определение транзитивности.
 
 ## Билет 32
 Автор: Габитов Даниил
@@ -1386,6 +1380,14 @@ I have no idea. Нужно спросить на консультации
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_32_3.png" alt="home"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_31_2.png" alt="home"/>
+</p>
+
+* Подробнее про [транзитивное замыкание](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5)
+
+* Идея для обычного Флойда должна быть тривиальна. Чтобы понять, почему переход на битсет так работает, помогает нарисовать табличку и вспомнить определение транзитивности.
 
 ## Билет 33
 Автор: Габитов Даниил
@@ -1575,6 +1577,12 @@ I have no idea. Нужно спросить на консультации
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_49.png" alt="home"/>
 </p>
 
+# Билет 50
+## Два станка
+![Определение](../algo_data/ticket_50_1.png)
+
+### В конспекте ЛКШ написано лучше 
+![Определение](../algo_data/ticket_50_2.png)
 ## Билет 51
 Автор: Габитов Даниил
 
@@ -1648,11 +1656,37 @@ I have no idea. Нужно спросить на консультации
 
 Легче посмотреть [лекцию](https://youtu.be/ph56-iCvAXY?t=834)...
 
+# Билет 55
+## Set cover
+![Определение](../algo_data/ticket_55_1.png)
+## ln(n)-приближение во взвешенном случае
+- **|A|** – число ещё не покрытых элементов, а не исходный размер
+
+![Определение](../algo_data/ticket_55_2.png)
+
+## Реализация за линейное время в невзвшенном случае
+
+![Определение](../algo_data/ticket_55_3.png)
+
+## 2-OPT приближение для Vertex Cover
+
+![Определение](../algo_data/ticket_55_4.png)
 ## Билет 56
 Автор: Габитов Даниил
 
 Легче посмотреть [лекцию](https://youtu.be/ph56-iCvAXY?t=1635), в коспекте ничего нет...
 
+# Билет 57
+## Центроидная декомпозиция
+![Определение](../algo_data/ticket_57_1.png)
+
+## Построение
+![Определение](../algo_data/ticket_57_2.png)
+
+## Минимум на пути
+![Определение](../algo_data/ticket_57_3.png)
+
+![Определение](../algo_data/ticket_57_4.png)
 ## Билет 58
 
 
@@ -2076,4 +2110,156 @@ I have no idea. Нужно спросить на консультации
 ##### [Реализация на мапе](http://acm.math.spbu.ru/~sk1/algo/segment-tree/cs-center/up_dynamic.cpp.html)
 
 ##### [Реализация на ссылках](https://site.ada.edu.az/~medv/acm/Docs%20e-olimp/Volume%2033/3252.htm)
+
+## Билет 81
+Автор: Габитов Даниил
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_81_1.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_81_2.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_81_3.png" alt="home"/>
+</p>
+
+##### [Ссылка на лекцию](https://youtu.be/XNRiaZjCxzc?t=3335)
+
+
+## Билет 82
+Автор: Габитов Даниил
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_82_1.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_82_2.png" alt="home"/>
+</p>
+
+  [Ссылка на практику](https://youtu.be/bI5OXoyI7Sg?t=4224), я там очень сильно туплю, но я узнал, что такое ДО за 10 минут до практики...
+
+## Билет 83
+Автор: Габитов Даниил
+
+### K-ая порядковая статистика.
+
+* За log^3 бинпоиск + 2D ДО
+
+* За log^2 заменяем 2D ДО на разницу преффиксов. Для этого поддерживаем персистентное дерево отрезков по значению.
+
+* За log заметим, что строение двух версий деревьев не отличается по строению, значит, можно одно вычесть из другого и получить отрезок [l, r]. Тогда бинпоиск можно заменить на 1 спуск. Спускаясь ищем минимальное значение >= k.
+
+##### [Ссылка на лекцию](https://youtu.be/d9fBIjjOcaI?t=624)
+
+## Билет 86
+Автор: Габитов Даниил
+
+### Обычный Sparse Table
+
+  Предподсчитаем для всех индексов минимум на отрезке [i, i + 2^k], k <= logn. В итоге nlog памяти и времени. Тогда гет на промежутке [l, r] это взять наибольший такой k который помещается в наш отрезок и посмотреть лучший ответ на промежутке [l, l + 2^k] и [r - 2^k, r]. Они всегда будут покрывать весь промежуток (Возможно, пересекатся, но для минимума это не важно).
+
+[Ссылка на лекцию](https://youtu.be/d9fBIjjOcaI?t=222)
+
+
+### Еще есть Sparse Table++
+
+// Вроде это 88 билет. На всякий случай можно глянуть - вдруг спросят...
+
+## Билет 87
+Автор: Габитов Даниил
+
+#### Проще посмотреть [лекцию](https://youtu.be/d9fBIjjOcaI?t=1741), и тогда все сведения вспомнятся, они не сложные.
+
+  Первый переход через Декартач, второй через эйлеров обход
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_87_1.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_87_2.png" alt="home"/>
+</p>
+
+#### Итог: умеем решать RMQ за <nlog, 1>, тогда умеем и LCA за это же время.
+
+## Билет 88
+Автор: Габитов Даниил
+
+Давайте поделим массив на k кусочков длины logn и построим на них Sparse Table за линию. Что делать если запрос не ровно по разделениям? Для этого предподсчитываем префиксы и суффиксы. Осталось научится обрабатывать случай, когда запрос внутри 1 блока. Чтобы это решить, давайте построим внутри каждого отрезка еще один Sparse Table
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/tachka_prokachka.jpg" alt="home" width="500" height="350"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_88_1.png" alt="home"/>
+</p>
+
+## Билет 89
+Автор: Габитов Даниил
+
+  Давайте вспомним, что ранее свели RMQ и LCA к RMQ+-1. Тогда, решив последний, решим все.
+  
+  Вспомним предыдущий билет. Линию нам обламывает SparceTable в каждом блоке, всего блоков k штук. Давайте очень крутом запрекалькаем. Сколько... И тут я понял, что Дима обьясняет этот билет за 5 минут, а это 2.5 минуты на скорости 2x, послушайте лучше [его](https://youtu.be/d9fBIjjOcaI?t=3154)...
+
+## Билет 90
+Автор: Габитов Даниил
+
+
+##### Вообще, мне очевидно как делается это, поэтому подробных обьяснений нет. МОжно глянуть [лекцию](https://youtu.be/d9fBIjjOcaI?t=3586). 
+
+  Кратко: через эйлеров обход выражаем isAncestor. Прагыаем из одной из вершин, пока не встретим самого нижнего предка. По сути, бинарикм. Второй вариант - Поднимаемся на один уровень и снова бинарим, только теперь критерий - слились ли мы в одну вершину. В итоге <nlog, log>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_90_1.png" alt="home"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_90_2.png" alt="home"/>
+</p>
+
+## Билет 91
+Автор: Габитов Даниил
+
+На [лекции](https://youtu.be/d9fBIjjOcaI?t=4912) за 5 минут.
+
+## Билет 62
+Автор: Габитов Даниил
+
+На [лекции](https://youtu.be/d9fBIjjOcaI?t=4566) обьяснили за 5 минут. Note: спуск как в k-ой статистике за log.
+
+## Билет 96
+Автор: Габитов Даниил
+
+  Идея простая: разобьем наше дерево на пути, на которых построим ДО. Построим так, чтобы было не больше log переходов между путями. Поэтому будем соединять вершины по самым тяжелым ребрам. Тогда на пути будет не более log ребер перехода т.к. они легкие и уменьшают размер дерева в 2 раза.
+  
+  Пример: поиск минимума на пути. NOTE: в hld веса в вершинах.
+  
+  Можно сделать еще лучше: добавить возможность запросов по поддереву. Для этого немного переструктурируем дерево так, чтобы все наши выбранные ребра были слева. Сделаем Эйлеров обход. Тогда, запрос на дереве превращается в запрос на массиве(рассматриваем интересующее нас поддерево). Заметим, что теперь вершины стоят в удобном нам порядке, а именно образуют тяжелые пути.  
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_1.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_2.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_3.png" alt="home"/>
+</p>
+
+## Билет 97
+Автор: Габитов Даниил
+
+Я устал писать билеты...
+
+#####  [Ссылка на статью](https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F_%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%B0_%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0)
+#####  [Ссылка на лекцию](https://youtu.be/TSRPgTLfZt8?t=1824)
 
