@@ -1,0 +1,18 @@
+## Билет 96
+Автор: Габитов Даниил
+
+  Идея простая: разобьем наше дерево на пути, на которых построим ДО. Построим так, чтобы было не больше log переходов между путями. Поэтому будем соединять вершины по самым тяжелым ребрам. Тогда на пути будет не более log ребер т.к. они легкии уменьшают размер дерева в 2 раза.
+  
+  Пример: поиск минимума на пути. NOTE: в hld веса в вершинах.
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_1.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_2.png" alt="home"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_96_3.png" alt="home"/>
+</p>
