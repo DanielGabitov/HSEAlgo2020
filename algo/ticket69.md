@@ -1,8 +1,6 @@
 ## Билет 69
 Автор: Габитов Даниил
 
-Девочки и мальчикииии, сладкие карамееееельки
-
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_69_1.png" alt="home"/>
 </p>
