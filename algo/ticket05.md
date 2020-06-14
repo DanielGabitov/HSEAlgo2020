@@ -6,3 +6,5 @@
 
 ## Решение 2-SAT
 ![2 list clolring](../algo_data/ticket_5_3.png)
+
+###### [Ссылка на более подробное обьяснение](https://e-maxx.ru/algo/2_sat)
