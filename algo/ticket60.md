@@ -19,4 +19,14 @@
 
 ### Число вращений
 
-I have no idea. Нужно спросить на консультации
+- При добавлении произойдет ровно одно вращение.
+
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/rotate_1.png" alt="home"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/rotate_2.png" alt="home"/>
+</p>
