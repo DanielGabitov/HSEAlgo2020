@@ -5,7 +5,7 @@
 
 ![Доказательство](../algo_data/ticket_2_1.png)
 
-##### [Ссылка на еще одно более подробное описание](http://neerc.ifmo.ru/wiki/index.php?title=%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2)
+##### [Ссылка на еще одно более подробное доказательство](http://neerc.ifmo.ru/wiki/index.php?title=%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2)
 
 ## Построение Эйлерова цикла
 
