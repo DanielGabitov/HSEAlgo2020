@@ -453,6 +453,7 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_35_2.png" alt="home"/>
 </p>
+
 ## Билет 36
 Автор: Габитов Даниил
 
@@ -465,6 +466,7 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_36_2.png" alt="home"/>
 </p>
+
 ## Билет 37
 Автор: Габитов Даниил
 
@@ -472,6 +474,7 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_37_1.png" alt="home"/>
 </p>
+
 ## Билет 38
 Автор: Габитов Даниил
 
@@ -485,12 +488,14 @@
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_38_2.png" alt="home"/>
 </p>
+
 ## Билет 39
 Автор: Габитов Даниил
 
 <p align="center">
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_39_1.png" alt="home"/>
 </p
+
 # Билет 40
 ## MST
 ![Определение](../algo_data/ticket_40_1.png)
