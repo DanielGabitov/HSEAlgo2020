@@ -17,4 +17,4 @@
   <img src="https://github.com/DanielGabitov/HSEAlgo2020/raw/master/algo_data/ticket_76_4.png" alt="home"/>
 </p>
 
-###### [Ссылка на лекцию]
+###### [Ссылка на лекцию](https://www.youtube.com/watch?v=LeelLtbxoOU&list=PLxMpIvWUjaJsrvC18SslESWGeauRH2Zrn&index=11)
